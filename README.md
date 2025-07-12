@@ -103,4 +103,3 @@ Let’s connect and create something awesome!
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
